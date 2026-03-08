@@ -54,7 +54,7 @@ The dashboard transforms raw sales data into a visual and interactive analytics 
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Dashboard ScreenShot.png)
+(![Dashboard Screenshot](Dashboard ScreenShot.png))
 
 ---
 
